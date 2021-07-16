@@ -1,0 +1,28 @@
+
+permalink: none
+# Build settings
+markdown: kramdown
+
+include: ['.htaccess']
+
+lang: de
+
+baseurl: '/LB-singt'
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- LICENSE
+- README.md
+- myNotes
+
+sass:
+  style: :compressed
+
+bootstrap:
+  assets: true

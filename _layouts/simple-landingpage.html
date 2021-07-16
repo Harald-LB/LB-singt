@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% comment %} <!-- template for a normal article -->{% endcomment %}
+
+<!-- layout article -->
+<main role="main">
+  <div  style="margin-top: 0rem">
+      <figure class="hero">
+        <img src="assets/img/posts/Blumen_im_Sommer.jpg" class="" alt="Blumen im Sommer">
+        <div class="copyright">
+          Von <a href="//commons.wikimedia.org/wiki/User:Maximilian_Sch%C3%B6nherr" title="User:Maximilian Schönherr">Maximilian Schönherr</a> - <span class="int-own-work" lang="de">Eigenes Werk</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15251750">Link</a>
+        </div>
+      </figure>
+  </div>
+  <div class="container" style="margin-top: 3rem">
+
+    <h2 class="featurette-heading my-md-3">{{ page.title | escape }}
+      <small class="text-muted">{{ page.subtitle | escape }}</small></h2>
+    <div class="lead">
+      {{ content }}
+    </div>
+  </div>
+</main>
+<!-- end layout article -->

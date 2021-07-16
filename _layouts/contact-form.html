@@ -1,0 +1,140 @@
+---
+layout: article
+---
+<!-- _layouts/contact-form.html-->
+{{ content }}
+
+<div  id="contact-form" class="container">
+  <div class="row">
+    <div class="col-md-2"><!-- placeholder before --></div>
+    <div class="col-md-8">
+
+      <form class="needs-validation"
+            novalidate
+            action="https://formspree.io/mleeoknj"
+            method="POST"
+      >
+        <input type="hidden" name="_language" value="de"/>
+        <input type="hidden" name="_subject" value="Anmeldung auf LB-singt!"/>
+        <input type="text" name="_gotcha" style="display:none" />
+
+        <h4 class="mt-4">Ansprechpartner</h4>
+        <div id="invalid-anchor" class="SV-invalid-anchor"><!--scroll back here, when invalid --></div>
+
+        <hr class="mb-2">
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="firstName">Vorname</label>
+            <input type="text"
+                   class="form-control"
+                   id="firstName"
+                   name="Vorname"
+                   placeholder="Dein Vorname"
+                   value=""
+                   required>
+            <div class="invalid-feedback">
+              Bitte gib deinen Vornamen ein.
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="lastName">Nachname</label>
+            <input type="text"
+                   class="form-control"
+                   id="lastName"
+                   name="Nachname"
+                   placeholder="Dein Nachname"
+                   value=""
+                   required>
+            <div class="invalid-feedback">
+              Bitte gib deinen Nachnamen ein.
+            </div>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-md-8 mb-3">
+            <label for="email">Email <span class="text-muted">(Pflichtfeld)</span></label>
+            <input type="email"
+                   class="form-control"
+                   id="email"
+                   name="_replyto"
+                   placeholder="you@example.com"
+                   value=""
+                   required>
+            <div class="invalid-feedback">
+              Bitte gib deine E-Mail-Adresse ein.
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3">
+            <label for="mobile">Mobilnummer<span class="text-muted">(Optional)</span></label>
+            <input type="tel"
+                   class="form-control"
+                   id="mobile"
+                   name="Telefon"
+                   value=""
+                   placeholder="0123 456789">
+          </div>
+        </div>
+
+
+        <h4 class="mt-4">Euer Projekt</h4>
+        <hr class="mb-2">
+
+        <div class="mb-3">
+          <label for="ensemble-name">Name des Ensembles <span class="text-muted">(Optional)</span></label>
+          <input type="text"
+                 class="form-control"
+                 id="ensemble-name"
+                 name="Ensemble"
+                 value=""
+                 placeholder="La Prima Vista">
+        </div>
+
+        <div class="mb-3">
+          <label for="establishment">Name des Vereins/ der Einrichtung <span
+                  class="text-muted">(Optional)</span></label>
+          <input type="text"
+                 class="form-control"
+                 id="establishment"
+                 name="Verein-Einrichtung"
+                 value=""
+                 placeholder="Musikschule XY">
+        </div>
+
+        <div class="mb-3">
+          <label for="home-page">Homepage <span class="text-muted">(Optional)</span></label>
+          <input type="text"
+                 class="form-control"
+                 id="home-page"
+                 name="Homepage"
+                 placeholder="https://www.my-ensemble.de"
+                 value="">
+          <div class="invalid-feedback">
+            Bitte gib den URL von eurer Homepage ein.
+          </div>
+
+        </div>
+
+        <div class="form-group mb-3">
+          <label for="project-description">Beschreibe kurz, was ihr vorhabt und wo ihr gerne auftreten wollt.</label>
+          <textarea class="form-control"
+                    id="project-description"
+                    rows="3"
+                    name="Projekt-Beschreibung"
+                    value=""></textarea>
+        </div>
+
+        <!-- your other form fields go here -->
+
+        <button class="btn btn-primary btn-lg btn-block mt-5" type="submit">Jetzt anmelden</button>
+      </form>
+
+    </div>
+    <div class="col-md-2"><!-- placeholder after --></div>
+  </div>
+
+</div>
+
+<!-- end _layouts/contact-form.html -->

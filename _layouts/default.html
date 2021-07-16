@@ -1,0 +1,20 @@
+---
+---
+{% comment %}<!-- the default elements of any page:  header, navigation and footer-->{% endcomment %}
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+  {% include head.html %}
+  {%- for css in page.extra_css %}
+    <!-- Custom styles for this template -->
+    <link href="{{ css }}" rel="stylesheet">
+  {%- endfor %}
+</head>
+<body>
+  {% include navigation.html %}
+  {{ content }}
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>

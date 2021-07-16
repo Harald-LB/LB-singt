@@ -1,0 +1,72 @@
+---
+---
+/*!
+ * Main SCSS for the LandingPage Template.
+ * Copyright 2020 Harald-LB
+ */
+
+//in order to have `baseurl` variable expanded, the we need to define the  path to the carousel images here.
+/*
+$carousel-image-1-sm: '{{ site.baseurl }}/assets/img/carousel/MV-P-01-sm.jpg';
+$carousel-image-2-sm: '{{ site.baseurl }}/assets/img/carousel/MVO-01-sm.jpg';
+$carousel-image-3-sm: '{{ site.baseurl }}/assets/img/carousel/SVM-01-sm.jpg';
+$carousel-image-4-sm: '{{ site.baseurl }}/assets/img/carousel/MV-P-02-sm.jpg';
+
+$carousel-image-1: '{{ site.baseurl }}/assets/img/carousel/MV-P-01.jpg';
+$carousel-image-2: '{{ site.baseurl }}/assets/img/carousel/MVO-01.jpg';
+$carousel-image-3: '{{ site.baseurl }}/assets/img/carousel/SVM-01.jpg';
+$carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
+*/
+// scss-docs-start import-stack
+// Configuration
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+
+// For Branding & Corporate Identity Design we overwrite some defaults.
+@import "branding";
+
+// Layout & components
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/forms";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/card";
+@import "bootstrap/accordion";
+@import "bootstrap/breadcrumb";
+@import "bootstrap/pagination";
+@import "bootstrap/badge";
+@import "bootstrap/alert";
+@import "bootstrap/progress";
+@import "bootstrap/list-group";
+@import "bootstrap/close";
+@import "bootstrap/toasts";
+@import "bootstrap/modal";
+@import "bootstrap/tooltip";
+@import "bootstrap/popover";
+@import "bootstrap/carousel";
+@import "bootstrap/spinners";
+@import "bootstrap/offcanvas";
+
+// Helpers
+@import "bootstrap/helpers";
+
+// Utilities
+@import "bootstrap/utilities/api";
+// scss-docs-end import-stack
+
+
+
+@import "landingpage";
+@import "share-buttons";

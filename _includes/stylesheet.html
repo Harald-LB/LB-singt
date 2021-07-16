@@ -1,0 +1,13 @@
+<!-- _includes/stylesheet.html -->
+<!-- Template main CSS -->
+{%- if jekyll.environment == "production" %}
+<link href="{{ site.baseurl }}/assets/styles/main.css" rel="stylesheet">
+<!--
+<link href="{{ site.baseurl }}/assets/styles/main.min.css" rel="stylesheet">
+-->
+{% else %}
+
+<link href="{{ site.baseurl }}/assets/styles/main.css" rel="stylesheet">
+
+{% endif -%}
+<!-- End _includes/stylesheet.html -->

@@ -1,0 +1,95 @@
+//
+// we anticipate some variables from "_variables.scss" because we'll need them already here.
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+
+// Add your Branding & Corporate Identity Design here
+$primary: #bacc2d;
+$success: #98d608;
+$info: #2870ff;
+$warning: #ffc300;
+$danger: #ff4332;
+
+$secondary: #ffd640;
+$light:#FDFBF7;
+$dark:#555555;
+
+
+$enable-gradients:false;
+$spacer:1rem;
+$border-width:3px;
+$btn-border-radius:.25rem;
+
+$body-color:    adjust-color($info, $lightness: -35%,  $saturation: -20%);
+$body-bg: white;
+
+
+// Add SASS theme customizations here..
+
+//
+
+
+
+$SV-green: $primary;
+$SV-complement: complement($SV-green);
+$SV-complement-dark: desaturate(darken($SV-complement, 35%),60%);
+
+
+
+$theme-colors: (
+        "primary": $SV-green,
+        "success": $SV-green
+);
+
+
+$link-color:                              darken($SV-green,10%);
+$link-decoration:                         none;
+$link-hover-color:                        darken($link-color, 10%);
+$link-hover-decoration:                   underline ;
+// Darken percentage for links with `.text-*` class (e.g. `.text-success`)
+$emphasized-link-hover-darken-percentage: 15% ;
+
+$hr-border-color: $SV-green;
+
+$jumbotron-color: #071E7B;
+$jumbotron-bg: #FFD640;
+
+// style the nav-tabs (used in "about" page)
+$nav-tabs-link-active-bg: $body-bg;
+$nav-tabs-link-active-color: $body-color;
+$nav-tabs-link-active-border-color: $SV-green $SV-green $nav-tabs-link-active-bg;
+
+// restyle the "navbar-dark" style in order to increase legibility
+
+$navbar-dark-color: white;
+$navbar-dark-active-color: white;
+
+$nav-tabs-border-color:       $SV-green;
+$navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") ;
+
+$navbar-dark-toggler-border-color: $SV-green;
+
+$nav-tabs-link-hover-border-color:  $gray-500 $gray-500 $nav-tabs-border-color ;
+
+.nav-link {
+  color: $gray-500;
+ // @include hover {
+ //   color: $gray-600;
+
+ // }
+}
+
+// Thin out the  headings (may be also "letter-spacing: -.05rem;")
+$headings-font-weight: 300;
+
+

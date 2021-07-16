@@ -1,0 +1,11 @@
+---
+# in config.yml do: include: ['.htaccess']
+# read /audioVideo/Text/Eigene Texte/Techdocs/WebDesign/2019-11-03-htaccess.md
+# 
+# You can easily make the apache webserver ignore the case by using the mod_speling module, which is part of the standard apache distribution:
+# <https://httpd.apache.org/docs/2.4/mod/mod_speling.html#comment_6522>
+# <https://stackoverflow.com/questions/14814419/how-do-i-make-urls-case-insensitive-in-linux-server>
+---
+# {% comment %} disable browsing of server directories  {% endcomment %}
+IndexIgnore *
+ErrorDocument 404 /404.html
