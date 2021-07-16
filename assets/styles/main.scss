@@ -17,6 +17,10 @@ $carousel-image-2: '{{ site.baseurl }}/assets/img/carousel/MVO-01.jpg';
 $carousel-image-3: '{{ site.baseurl }}/assets/img/carousel/SVM-01.jpg';
 $carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
 */
+
+// For Branding & Corporate Identity Design we overwrite some defaults.
+@import "branding";
+
 // scss-docs-start import-stack
 // Configuration
 @import "bootstrap/functions";
@@ -24,8 +28,7 @@ $carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
 @import "bootstrap/mixins";
 @import "bootstrap/utilities";
 
-// For Branding & Corporate Identity Design we overwrite some defaults.
-@import "branding";
+
 
 // Layout & components
 @import "bootstrap/root";
