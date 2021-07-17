@@ -50,7 +50,7 @@ body {
 
 .navbar {
   border-top: 8px solid $SV-green;
-  background-image: linear-gradient(rgba($SV-complement-dark,0.5), rgba($SV-complement-dark,0.1));
+  background-image: linear-gradient(rgba($SV-complement-dark,0.4), rgba($SV-complement-dark,0.0));
 }
 
 //
@@ -265,9 +265,6 @@ body {
   }
 }
 
-.navbar-brand {
-  font-size: 1rem;
-}
 
 @include media-breakpoint-up(sm) {
   .navbar-brand {
