@@ -22,35 +22,12 @@ body {
   padding-bottom: 3rem;
 
 }
-/* make copyright notice fly over the image */
-.hero {
-  position: relative;
-  width:100%;
-  height:auto;
-
-  img {
-    width:100%;
-    height:auto;
-    display: block;
-  }
-  .copyright {
-    position: absolute;
-    font-size: 0.75rem;
-    bottom: 0;
-    padding: 0rem 1rem;
-    line-height: 2rem;
-    color: white;
-    background: rgba(0,0,0,.3);
-  }
-}
-
-
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
 .navbar {
   border-top: 8px solid $SV-green;
-  background-image: linear-gradient(rgba($SV-complement-dark,0.4), rgba($SV-complement-dark,0.0));
+  background-color: scale-color($SV-background, $lightness:-40%, $alpha: -40%);
 }
 
 //
@@ -231,7 +208,7 @@ body {
 .nav-link {
   padding: .25rem 1rem ; //.25rem 0;
   font-weight: 700;
- // color: rgba(255, 255, 255, .5);
+  color: rgba(255, 255, 255, .5);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
 
@@ -251,7 +228,7 @@ body {
 // the navigation bar (see _includes/navigation.html)
 .navbar-brand-image {
   margin-left: 0;
-  width: 2.75rem;
+  width: auto;
   height: 2.75rem;
   opacity: 100%
 }
@@ -259,7 +236,7 @@ body {
 @include media-breakpoint-up(sm) {
   .navbar-brand-image {
     margin-left: 3rem;
-    width: 4rem;
+    width: auto;
     height: 4rem;
     opacity: 100%
   }
