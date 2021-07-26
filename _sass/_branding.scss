@@ -53,3 +53,15 @@ $nav-tabs-link-hover-border-color:  $gray-500 $gray-500 $nav-tabs-border-color ;
 $headings-font-weight: 300;
 
 
+// Grid containers//
+// Redefine the maximum width of `.container` for different screen sizes.
+// limit the largest size to 720px
+
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 720px,//960px,
+        xl: 720px,//1140px,
+        xxl: 720px//1320px
+) ;
+// scss-docs-end container-max-widths

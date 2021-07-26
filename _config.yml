@@ -25,4 +25,4 @@ sass:
   style: :compressed
 
 bootstrap:
-  assets: true
+  assets: false

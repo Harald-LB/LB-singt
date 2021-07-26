@@ -8,9 +8,11 @@
 .form-control::-webkit-input-placeholder { /* Edge */
   opacity: 0.5;
 }
+
 .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
   opacity: 0.5;
 }
+
 .form-control::placeholder {
   opacity: 0.5;
 }
@@ -22,12 +24,13 @@ body {
   padding-bottom: 3rem;
 
 }
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
 .navbar {
   border-top: 8px solid $SV-green;
-  background-color: scale-color($SV-background, $lightness:-40%, $alpha: -40%);
+  background-color: scale-color($SV-background, $lightness: -40%, $alpha: -40%);
 }
 
 //
@@ -35,8 +38,8 @@ body {
 // see also https://stackoverflow.com/questions/49331572/offset-scroll-anchor-in-html-with-bootstrap-4-fixed-navbar/49331692
 .shifted-anchor:before {
   display: block;
-  height: 120px;   // equal to the navbar height
-  margin-top: -120px;  // negative margin equal to the navbar height
+  height: 120px; // equal to the navbar height
+  margin-top: -120px; // negative margin equal to the navbar height
   visibility: hidden;
   content: "";
 }
@@ -52,9 +55,9 @@ body {
 .teaser {
   font-style: italic;
   border-bottom-style: solid;
-  border-bottom-color: $SV-green;// $gray-600;
+  border-bottom-color: $SV-green; // $gray-600;
   border-bottom-width: thin;
-  margin-bottom:1rem;
+  margin-bottom: 1rem;
 }
 
 .marketing {
@@ -161,7 +164,7 @@ body {
 }
 
 .marketing h2 {
- // font-weight: 400;
+  // font-weight: 400;
 }
 
 .marketing .col-lg-4 p {
@@ -172,7 +175,6 @@ body {
 
 /* Featurettes
 ------------------------- */
-
 
 
 /* Thin out the marketing headings */
@@ -206,7 +208,7 @@ body {
 //}
 
 .nav-link {
-  padding: .25rem 1rem ; //.25rem 0;
+  padding: .25rem 1rem; //.25rem 0;
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
@@ -239,6 +241,12 @@ body {
     width: auto;
     height: 4rem;
     opacity: 100%
+  }
+
+  .navbar-dark {
+    .navbar-toggler {
+      margin-right: 3rem;
+    }
   }
 }
 
