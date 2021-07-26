@@ -1,6 +1,7 @@
 ---
 layout: simple-landingpage
 title: Ludwigsburg singt wieder
+subtitle: am 3 Oktober
 menu_position: 10
 menu_title: Home
 ---

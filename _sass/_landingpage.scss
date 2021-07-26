@@ -17,13 +17,6 @@
   opacity: 0.5;
 }
 
-/* Padding below the footer and lighter body text */
-
-body {
-  //padding-top: 3rem;
-  padding-bottom: 3rem;
-
-}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -31,6 +24,11 @@ body {
 .navbar {
   border-top: 8px solid $SV-green;
   background-color: scale-color($SV-background, $lightness: -40%, $alpha: -40%);
+}
+
+footer {
+  border-top: 1px solid $SV-green;
+  background-color: scale-color($SV-background, $lightness: -40%);
 }
 
 //
