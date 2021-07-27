@@ -6,26 +6,41 @@ menu_position: 10
 menu_title: Home
 ---
 Endlich - wieder die Aussicht auf ein musikalisches Erfolgserlebnis 
-für alle Chor Sängerinnen und Sänger in Ludwigsburg. 
-Jetzt wo wir wieder aktiv werden dürfen, lädt der 
-Stadtverband Musik zu einem offenen Singen zum _Tag der Deutschen Einheit_ ein.
+für Sängerinnen und Sänger in Ludwigsburg. 
 
-Unter dem Motto _„Ludwigsburg singt wieder“_, treffen wir uns 03. Oktober um 
-16 Uhr auf dem Ludwigsburger Marktplatz und singen im Chor eine Reihe von 
-bekannten Liedern.
+Jetzt, wo wir wieder aktiv werden dürfen, lädt Sie der
+Stadtverband Musik Ludwigsburg e.V. 
+zu einem offenen Singen am _Tag der Deutschen Einheit_ ein.
+
+Unter dem Motto _„Ludwigsburg singt wieder“_, rufen wir einen
+Projektchor ins Leben.
+Alle singfreudigen Menschen, egal welcher Religion, 
+Nation oder Vereinszugehörigkeit sind eingeladen daran teilzunehmen.
+
 
 Die musikalische Leitung übernimmt Prof. Siegfried Bauer.
 
-Im Zentrum soll die Freude am gemeinsamen Musizieren stehen.
-Es sind bekannte Lieder die wenig Vorbereitung benötigen:
+{::options parse_block_html="true" /}
+<div class="container">
+<div class="row">
+  <div class="col-sm-6 col-md-4 col-lg-3 px-5 px-sm-1">
+  ![KMD Prof. Siegfried Bauer Landeskirchenmusikdierktor i.R.](assets/img/posts/Siegfried_Bauer.jpg){: .img-fluid}
+  </div>
+  <div class="col pl-0 pl-lg-2">
+  Diese Aktion soll ein Zeichen für Hoffnung, Gemeinschaft und wiedererlangte Aktivität setzen. 
+  Im Zentrum steht die Freude am gemeinsamen Singen und Musizieren.
 
-- „Kein schöner Land“
-- „Nun danket alle Gott
-- „Hevenu Shalom Alechem“
-- „We shall overcome“
-- „Von guten Mächten“
+  Ein Blechbläserensemble wird das kleine Konzert begleiten.
+  
+  Die Lieder sind so gewählt, dass sie mit wenig Aufwand
+  einstudiert werden können.
+  </div>
+</div>
+</div>
+{::options parse_block_html="false" /}
 
-Es sind zwei Chorproben geplant.
+Es ist geplant, nach den Sommerferien zwei Chorproben abzuhalten.
+Die Termine sind am 23. und 30. September jeweils um 19<sup>30</sup>
 
 Hier können sie sich anmelden.
 
