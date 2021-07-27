@@ -2,13 +2,13 @@
 // Add your Branding & Corporate Identity Design here
 //
 
-
+$font-size-base:              1.25rem ;
 
 $SV-green: #BBEC51;// the main color
 .sv-color{
   color: $SV-green;
 }
-$SV-background:  hsl(0, 4%, 35%);//#595555;
+$SV-background:  hsl(0, 0%, 35%);
 $SV-complement: complement($SV-green);
 $SV-complement-dark: desaturate(darken($SV-complement, 35%),60%);
 

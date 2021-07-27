@@ -1,7 +1,7 @@
 ---
 layout: simple-landingpage
-title: Ludwigsburg singt wieder
-subtitle: am 3 Oktober
+title: Ludwigsburg singt wieder!
+subtitle: 3. Oktober 19 Uhr in der Friedenskirche
 menu_position: 10
 menu_title: Home
 ---
