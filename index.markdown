@@ -33,16 +33,19 @@ Die musikalische Leitung übernimmt Prof. Siegfried Bauer.
   Ein Blechbläserensemble wird das kleine Konzert begleiten.
   
   Die Lieder sind so gewählt, dass sie mit wenig Aufwand
-  einstudiert werden können.
+  in zwei Chorproben einstudiert werden können.
+  Die Probetermine sind voraussichtlich am 23. und 30. September jeweils um 19<sup>30</sup> Uhr.
   </div>
 </div>
 </div>
 {::options parse_block_html="false" /}
 
-Es ist geplant, nach den Sommerferien zwei Chorproben abzuhalten.
-Die Termine sind am 23. und 30. September jeweils um 19<sup>30</sup>
+Sie können schon jetzt anfangen zu üben. Melden Sie sich 
+[hier](anmeldung.html) 
+an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
 
-Hier können sie sich anmelden.
+
+
 
 
 
