@@ -34,17 +34,39 @@ Die musikalische Leitung übernimmt Prof. Siegfried Bauer.
   
   Die Lieder sind so gewählt, dass sie mit wenig Aufwand
   in zwei Chorproben einstudiert werden können.
-  Die Probetermine sind voraussichtlich am 23. und 30. September jeweils um 19<sup>30</sup> Uhr.
+  Den Teilnehmerinnen und Teilnehmern entstehen für Proben und Aufführung keine Kosten und 
+  auch für das Konzert in der Friedenskirche ist der Eintritt frei.
   </div>
 </div>
 </div>
 {::options parse_block_html="false" /}
 
-Sie können schon jetzt anfangen zu üben. Melden Sie sich 
+Sie können schon jetzt, während der Ferien, anfangen zu üben. Melden Sie sich 
 [hier](anmeldung.html) 
 an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
 
+## Termine
+Die aktuelle Planung ist wie folgt:
 
+- Montag 13. September - Anmeldeschluss für Teilnehmerinnen und Teilnehmern
+- Donnerstag 23. September, 19<sup>30</sup> Uhr - erste Chorprobe
+- Donnerstag 30. September, 19<sup>30</sup> Uhr - zweite Chorprobe
+- Sonntag 3. Oktober , 17<sup>30</sup> Uhr - Einsingen, 19 Uhr - Konzert
+
+Derzeit sind als Vorraussetzung der Teilnahme an den Proben eine vollständige Impfung, 
+ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung 
+nach einer Coviderkrankung verpflichtend.
+
+Pandemiebedingt können sich diese Termine kurzfristg ändern. 
+Wir halten sie per E-Mail auf dem Laufenden.
+
+## „3. Oktober – Deutschland  singt“
+
+Wir verdanken die Idee zu diesem Projekt der Initiative „3. Oktober – Deutschland  singt“.
+
+Weitere Informationen zu der Initiative „3. Oktober – Deutschland  singt“ sind auf deren
+Homepage [www.3oktober.org](www.3oktober.org)
+zu finden.
 
 
 

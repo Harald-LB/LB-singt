@@ -4,6 +4,10 @@ title: "Anmeldung"
 menu_position: 21
 extra_js: "form-validation.js"
 ---
+Hier können Sie sich für die Teilnahme an dem Konzert anmelden. Anmeldeschluß ist der 
+13.&nbsp;September.
+Sollten sich mehr Teilnehmer melden als entsprechend der Corona Regeln erlaubt sind, 
+so werden die Anmeldungen entsprechend der Reihenfolge des Eingangs berücksichtigt.
 
 ## Anmeldung per Post
 Einfach das Anmeldeformular runterladen, ausdrucken, ausfüllen 
