@@ -62,10 +62,10 @@ Wir halten sie per E-Mail auf dem Laufenden.
 
 ## „3. Oktober – Deutschland  singt“
 
-Wir verdanken die Idee zu diesem Projekt der Initiative „3. Oktober – Deutschland  singt“.
+Wir verdanken die Idee für dieses Projekt der Initiative „3. Oktober – Deutschland  singt“.
 
 Weitere Informationen zu der Initiative „3. Oktober – Deutschland  singt“ sind auf deren
-Homepage [www.3oktober.org](www.3oktober.org)
+Homepage [www.3oktober.org](https://3oktober.org/)
 zu finden.
 
 

@@ -1,7 +1,7 @@
 Impressum Angaben im Sinne von § 5 TMG
 
 - __Name und Anschrift:__ STADTVERBAND MUSIK  Ludwigsburg 1966 e.V.
-- __Geschäftsstelle:__ SVM Geschäftsstelle c/o Nicole Bacher, Beim Hasenkreuz 6, 71696 Möglingen
+- __Geschäftsstelle:__ SVM Geschäftsstelle, c/o Nicole Bacher, Beim Hasenkreuz 6, 71696 Möglingen
 - __E-Mail-Adresse:__ <script language='javascript' type='text/javascript'><!--
                       //
                       x = '&#64;';
