@@ -10,9 +10,9 @@ Hier können Sie sich für die Teilnahme an dem Konzert und den Proben anmelden.
 Sollten sich mehr Teilnehmer melden, als gemäß der Corona Regeln erlaubt sind, 
 so werden die Anmeldungen entsprechend der Reihenfolge des Eingangs berücksichtigt.
 
-Bitte geben sie Ihre E-Mail Adresse an, damit wir sie auf dem Laufenden halten können.
+Bitte geben sie Ihre E-Mail Adresse an. So können wir Sie auf dem Laufenden halten.
 
-
+---
 ## Anmeldung per Post
 Einfach das Anmeldeformular runterladen, ausdrucken, ausfüllen 
 und per Post oder Email an die Geschäftsstelle 
@@ -22,5 +22,6 @@ des Stadtverbandes schicken.
 - __Geschäftsstelle:__ Nicole Bacher, SVM Geschäftsstelle, Beim Hasenkreuz 6, 71696 Möglingen  
 - __E-Mail-Adresse:__ <a href="mailto:Geschaeftsstelle@svm-ludwigsburg.de"> Geschaeftsstelle@svm-ludwigsburg.de</a>
 
+---
 ## Anmeldung übers Internet
 Alternativ, das Formular ausfüllen und "Jetzt anmelden" klicken.

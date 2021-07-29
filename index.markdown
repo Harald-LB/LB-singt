@@ -5,7 +5,7 @@ subtitle: 3. Oktober 19 Uhr in der Friedenskirche
 menu_position: 10
 menu_title: Home
 ---
-Endlich - wieder die Aussicht auf ein musikalisches Erfolgserlebnis 
+<span class="fs-2">E</span>ndlich - wieder die Aussicht auf ein musikalisches Erfolgserlebnis 
 für Sängerinnen und Sänger in Ludwigsburg. 
 
 Jetzt, wo wir wieder aktiv werden dürfen, lädt Sie der
@@ -15,7 +15,7 @@ zu einem offenen Singen am _Tag der Deutschen Einheit_ ein.
 Unter dem Motto _„Ludwigsburg singt wieder“_, rufen wir einen
 Projektchor ins Leben.
 Alle singfreudigen Menschen, egal welcher Religion, 
-Nation oder Vereinszugehörigkeit sind eingeladen daran teilzunehmen.
+Nation oder Vereinszugehörigkeit, sind eingeladen daran teilzunehmen.
 
 
 Die musikalische Leitung übernimmt Prof. Siegfried Bauer.
@@ -45,6 +45,7 @@ Sie können schon jetzt, während der Ferien, anfangen zu üben. Melden Sie sich
 [hier](anmeldung.html) 
 an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
 
+---
 ## Termine
 Die aktuelle Planung ist wie folgt:
 
@@ -53,20 +54,20 @@ Die aktuelle Planung ist wie folgt:
 - Donnerstag 30. September, 19<sup>30</sup> Uhr - zweite Chorprobe
 - Sonntag 3. Oktober , 17<sup>30</sup> Uhr - Einsingen, 19 Uhr - Konzert
 
-Derzeit sind als Vorraussetzung der Teilnahme an den Proben eine vollständige Impfung, 
+Derzeit gilt als Vorraussetzung für die Teilnahme an den Proben eine vollständige Impfung, 
 ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung 
-nach einer Coviderkrankung verpflichtend.
+nach einer Coviderkrankung.
 
 Pandemiebedingt können sich diese Termine kurzfristg ändern. 
 Wir halten sie per E-Mail auf dem Laufenden.
 
+---
 ## „3. Oktober – Deutschland  singt“
 
 Wir verdanken die Idee für dieses Projekt der Initiative „3. Oktober – Deutschland  singt“.
 
-Weitere Informationen zu der Initiative „3. Oktober – Deutschland  singt“ sind auf deren
-Homepage [www.3oktober.org](https://3oktober.org/)
-zu finden.
+Weitere Informationen zu der Initiative „3. Oktober – Deutschland  singt“ finden Sie auf deren
+Homepage [www.3oktober.org](https://3oktober.org/).
 
 
 

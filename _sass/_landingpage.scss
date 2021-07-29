@@ -73,40 +73,6 @@ footer {
   line-height: 1.25;
 }
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-/*
-// set the carousel-background image for small devices (landscape phones, 576px and smaller)
-.carousel-item-background-1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url($carousel-image-1-sm);
-}
-.carousel-item-background-2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url($carousel-image-2-sm);
-}
-.carousel-item-background-3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($carousel-image-3-sm);
-}
-.carousel-item-background-4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($carousel-image-4-sm);
-}
-
-// set the carousel-background image for larger devices (landscape phones, 576px and larger)
-@include media-breakpoint-up(sm) {
-
-  .carousel-item-background-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url($carousel-image-1);
-  }
-  .carousel-item-background-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url($carousel-image-2);
-  }
-  .carousel-item-background-3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($carousel-image-3);
-  }
-  .carousel-item-background-4 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($carousel-image-4);
-  }
-}
-*/
 
 /* Carousel base class */
 .carousel {
