@@ -19,7 +19,7 @@ $theme-colors: (
         "primary": $SV-green,
         "success": $SV-green
 );
-
+$text-muted: rgba($white, .5);
 
 $link-color:                              $SV-green;
 $link-decoration:                         none;
@@ -35,6 +35,8 @@ $danger: #ff5100;
 $nav-tabs-link-active-bg: $body-bg;
 $nav-tabs-link-active-color: $body-color;
 $nav-tabs-link-active-border-color: $SV-green $SV-green $nav-tabs-link-active-bg;
+
+$nav-link-hover-color: $link-hover-color;
 
 // restyle the "navbar-dark" style in order to increase legibility
 
