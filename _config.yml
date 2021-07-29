@@ -7,7 +7,7 @@ include: ['.htaccess']
 
 lang: de
 
-baseurl: '/LB-singt'
+baseurl: ''
 
 exclude:
 - Gemfile
