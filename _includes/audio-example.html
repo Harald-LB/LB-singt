@@ -1,0 +1,66 @@
+<!-- _includes/audio-example -->
+{% capture sopranUrl %}assets/audio/{{ include.piece }}-sopran.mp3{% endcapture %}
+{% capture altoUrl %}assets/audio/{{ include.piece }}-alt.mp3{% endcapture %}
+{% capture tenorUrl %}assets/audio/{{ include.piece }}-tenor.mp3{% endcapture %}
+{% capture bassUrl %}assets/audio/{{ include.piece }}-bass.mp3{% endcapture %}
+{% capture logoLink %}{% link assets/img/icons/mp3Logo.png %}{% endcapture %}
+
+<table style="max-width: 100%; ">
+  <tr>
+    <td>Sopran</td>
+    <td>
+      <audio controls style="max-width: 15em;padding: 2px;">
+        <source src="{% link {{sopranUrl}} %}" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      <a href="{% link {{sopranUrl}} %}" download>
+        Download
+        <img src="{{logoLink}}">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Alt</td>
+    <td>
+      <audio controls style="max-width: 15em;padding: 2px;">
+        <source src="{% link {{altoUrl}} %}" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      <a href="{% link {{altoUrl}} %}" download>
+        Download
+        <img src="{{logoLink}}">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Tenor</td>
+    <td>
+      <audio controls style="max-width: 15em;padding: 2px;">
+        <source src="{% link {{tenorUrl}} %}" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      <a href="{% link {{tenorUrl}} %}" download>
+        Download
+        <img src="{{logoLink}}">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Bass</td>
+    <td>
+      <audio controls style="max-width: 15em;padding: 2px;">
+        <source src="{% link {{bassUrl}} %}" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      <a href="{% link {{bassUrl}} %}" download>
+        Download
+        <img src="{{logoLink}}">
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- END _includes/audio-example -->

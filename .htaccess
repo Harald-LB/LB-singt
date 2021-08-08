@@ -9,3 +9,14 @@
 # {% comment %} disable browsing of server directories  {% endcomment %}
 IndexIgnore *
 ErrorDocument 404 /404.html
+
+# automatically corect simple speling erors
+<IfModule mod_speling.c>
+	CheckSpelling On
+</IfModule>
+
+#remove html file extension-e.g. https://example.com/file.html will become https://example.com/file
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]

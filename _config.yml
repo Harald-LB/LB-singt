@@ -9,6 +9,17 @@ lang: de
 
 # baseurl: '/LB-singt'
 baseurl: ''
+url: 'https://lb-singt.de'
+
+authors: 'STADTVERBAND MUSIK Ludwigsburg 1966 e.V'
+
+title: 'Ludwigsburg singt wieder!'
+
+description: 'Singen Sie mit, am 3. Oktober 2021, in der Friedenskirche Ludwigsburg.'
+
+keywords: 'Ludwigsburg, Chor, Singen, Friedenskirche, Prof. Siegfried Bauer'
+
+social_image_path: '/assets/img/posts/frauenChor-final.jpg'
 
 exclude:
 - Gemfile
