@@ -22,8 +22,9 @@ Die Noten bekommen Sie per E-Mail.
 
 ---
 ## 70. Der Mond ist aufgegangen 
+#### Satz II
 
-<p>In Vorbereitung</p>
+{% include audio-example.html piece="70s2-Der-Mond-ist-aufgegangen" %}
 
 ---
 ## 142. Dona nobis pacem
