@@ -69,10 +69,21 @@ Wir verdanken die Idee für dieses Projekt der Initiative „3. Oktober – Deut
 Weitere Informationen zu der Initiative „3. Oktober – Deutschland  singt“ finden Sie auf deren
 Homepage [www.3oktober.org](https://3oktober.org/).
 
+---
+## Die Ludwigsburger Kreiszeitung berichtet
 
+Am 14.08.2021 erschien in der LKZ ein Artikel über unser Projekt
+unter dem Titel: _„Jetzt heißt es: Ludwigsburg singt!“_.
 
+Die im Artikel genannten Lieder werden wir voraussichtlich nicht in
+der Form aufführen, wie sie auf _www.3oktober.org_ präsentiert werden.
 
+In Anbetracht, dass wir nach den Ferien nur zwei Chorproben bis 3. Oktober haben,
+beschlossen wir, Ablauf und Liederliste gegenüber der Aktion _www.3oktober.org_
+etwas anzupassen und mehr auf allgemein bekannte Arrangements zu setzen.
 
+Die Online-Ausgabe des Artikels finden Sie hier:
+[www.lkz.de](https://www.lkz.de/lokales/stadt-ludwigsburg_artikel,-jetzt-heisst-es-ludwigsburg-singt-_arid,648395.html)
 
 
 
