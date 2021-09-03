@@ -1,15 +1,16 @@
 ---
 layout: training
 title: "Trainingsmaterial"
-subtitle: "Üben Sie Ihre Stimme"
+subtitle: "Üben Sie Ihre Stimme, wo immer Sie gerade sind"
 menu_position: 20
 menu_title: "Training"
 extra_js: login.js
 ---
 
-Hier gibt es die Hörbeispiele für die Lieder. 
+Nutzen Sie die Zeit in der S-Bahn, beim Bügeln, beim Joggen etc. um sich Ihre Stimme
+einzuprägen.
 
-Im Hintergrund spielt die Orgel alle Chorstimmen.
+Hören Sie sich die folgenden Lieder immer wieder an. Im Hintergrund spielt die Orgel alle Chorstimmen.
 Im Vordergrund hören Sie Ihre Stimme vom Klavier gespielt.
 
 Die Noten bekommen Sie per E-Mail.
