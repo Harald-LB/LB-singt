@@ -1,6 +1,10 @@
 ---
-layout: article
-title: "Übungsmaterial"
+layout: training
+title: "Trainingsmaterial"
+subtitle: "Üben Sie Ihre Stimme"
+menu_position: 20
+menu_title: "Training"
+extra_js: login.js
 ---
 
 Hier gibt es die Hörbeispiele für die Lieder. 
@@ -40,3 +44,36 @@ Die Noten bekommen Sie per E-Mail.
 ## 116. Nun danket alle Gott
 
 <p>In Vorbereitung</p>
+
+---
+## 109. Von guten Mächten treu und still umgeben
+
+<p>In Vorbereitung</p>
+
+---
+## 75.  Kanon: Herr, bleibe bei uns
+
+<p>In Vorbereitung</p>
+
+---
+## 25.  Hab oft im Kreise der Lieben
+
+<p>In Vorbereitung</p>
+
+---
+## 67.  Nun wollen wir singen das Abendlied
+
+<p>In Vorbereitung</p>
+
+---
+## 145.  Möge die Straße uns zusammenführen
+
+<p>In Vorbereitung</p>
+<!-- https://www.evangeliums.net/lieder/lied_moege_die_strasse_uns_zusammenfuehren.html -->
+---
+## 120. Großer Gott, wir loben dich (Satz 2)
+
+<p>In Vorbereitung</p>
+
+
+

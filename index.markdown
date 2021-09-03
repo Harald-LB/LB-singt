@@ -54,6 +54,8 @@ Die aktuelle Planung ist wie folgt:
 - Donnerstag 30. September, 19<sup>30</sup> Uhr - zweite Chorprobe
 - Sonntag 3. Oktober , 17<sup>30</sup> Uhr - Einsingen, 19 Uhr - Konzert
 
+Chorproben und Konzert finden in der Friedenskirche (Stuttgarter Str. 42, 71638 Ludwigsburg) statt.
+
 Derzeit gilt als Vorraussetzung für die Teilnahme an den Proben eine vollständige Impfung, 
 ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung 
 nach einer Coviderkrankung.
