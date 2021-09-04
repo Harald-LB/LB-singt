@@ -15,9 +15,9 @@ window.onload = function () {
         myModal.show();
     }
 };
-okButton.onclick = function () {
-    // check password
+function checkPassword() {
     if (passwordField.value == "kslidz") {
+        // Password is OK
         myModal.hide();
         // save access authorisation
         localStorage.accessAuthorized = true;
@@ -25,5 +25,11 @@ okButton.onclick = function () {
     else {
         passwordField.classList.add("is-invalid");
     }
+}
+okButton.onclick = function () {
+    checkPassword();
+};
+passwordField.onchange = function () {
+    checkPassword();
 };
 //# sourceMappingURL=login.js.map

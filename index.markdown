@@ -5,16 +5,16 @@ subtitle: 3. Oktober 19 Uhr in der Friedenskirche
 menu_position: 10
 menu_title: Home
 ---
-<span class="fs-2">E</span>ndlich - wieder die Aussicht auf ein musikalisches Erfolgserlebnis 
-für Sängerinnen und Sänger in Ludwigsburg. 
+<span class="fs-2">E</span>ndlich - wieder die Aussicht auf ein musikalisches Erfolgserlebnis
+für Sängerinnen und Sänger in Ludwigsburg.
 
 Jetzt, wo wir wieder aktiv werden dürfen, lädt Sie der
-Stadtverband Musik Ludwigsburg e.V. 
+Stadtverband Musik Ludwigsburg e.V.
 zu einem offenen Singen am _Tag der Deutschen Einheit_ ein.
 
 Unter dem Motto _„Ludwigsburg singt wieder“_, rufen wir einen
 Projektchor ins Leben.
-Alle singfreudigen Menschen, egal welcher Religion, 
+Alle sing-freudigen Menschen, egal welcher Religion,
 Nation oder Vereinszugehörigkeit, sind eingeladen daran teilzunehmen.
 
 
@@ -30,19 +30,19 @@ Die musikalische Leitung übernimmt Prof. Siegfried Bauer.
   Diese Aktion soll ein Zeichen für Hoffnung, Gemeinschaft und wiedererlangte Aktivität setzen. 
   Im Zentrum steht die Freude am gemeinsamen Singen und Musizieren.
 
-  Ein Blechbläserensemble wird das kleine Konzert begleiten.
-  
-  Die Lieder sind so gewählt, dass sie mit wenig Aufwand
-  in zwei Chorproben einstudiert werden können.
-  Den Teilnehmerinnen und Teilnehmern entstehen für Proben und Aufführung keine Kosten und 
-  auch für das Konzert in der Friedenskirche ist der Eintritt frei.
+Ein Blechbläserensemble wird das kleine Konzert begleiten.
+
+Die Lieder sind so gewählt, dass sie mit wenig Aufwand
+in zwei Chorproben einstudiert werden können.
+Den Teilnehmerinnen und Teilnehmern entstehen für Proben und Aufführung keine Kosten und
+auch für das Konzert in der Friedenskirche ist der Eintritt frei.
   </div>
 </div>
 </div>
 {::options parse_block_html="false" /}
 
-Sie können schon jetzt, während der Ferien, anfangen zu üben. Melden Sie sich 
-[hier](anmeldung.html) 
+Sie können schon jetzt, während der Ferien, anfangen zu üben. Melden Sie sich
+[hier](anmeldung.html)
 an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
 
 ---
@@ -56,11 +56,11 @@ Die aktuelle Planung ist wie folgt:
 
 Chorproben und Konzert finden in der Friedenskirche (Stuttgarter Str. 42, 71638 Ludwigsburg) statt.
 
-Derzeit gilt als Vorraussetzung für die Teilnahme an den Proben eine vollständige Impfung, 
-ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung 
+Derzeit gilt als Voraussetzung für die Teilnahme an den Proben eine vollständige Impfung,
+ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung
 nach einer Coviderkrankung.
 
-Pandemiebedingt können sich diese Termine kurzfristg ändern. 
+Pandemiebedingt können sich diese Termine kurzfristig ändern.
 Wir halten sie per E-Mail auf dem Laufenden.
 
 ---
@@ -86,6 +86,5 @@ etwas anzupassen und mehr auf allgemein bekannte Arrangements zu setzen.
 
 Die Online-Ausgabe des LKZ-Artikels finden Sie hier:
 [www.lkz.de](https://www.lkz.de/lokales/stadt-ludwigsburg_artikel,-jetzt-heisst-es-ludwigsburg-singt-_arid,648395.html)
-
 
 

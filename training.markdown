@@ -71,10 +71,19 @@ Die Noten bekommen Sie per E-Mail.
 
 <p>In Vorbereitung</p>
 <!-- https://www.evangeliums.net/lieder/lied_moege_die_strasse_uns_zusammenfuehren.html -->
+
 ---
 ## 120. Großer Gott, wir loben dich (Satz 2)
 
 <p>In Vorbereitung</p>
 
+---
 
+### Bitte beachten
+
+Diese Medien dürfen nur im Rahmen der Aktion
+„Ludwigsburg singt wieder!“
+verwendet werden.
+
+Weitere Kopien, sonstige Vervielfältigung und Weitergabe des Passworts sind verboten.
 
