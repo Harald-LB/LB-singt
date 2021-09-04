@@ -17,7 +17,27 @@
   opacity: 0.5;
 }
 
+/* make copyright notice fly over the image */
+.hero {
+  position: relative;
+  width:100%;
+  height:auto;
 
+  img {
+    width:100%;
+    height:auto;
+    display: block;
+  }
+  .copyright {
+    position: absolute;
+    font-size: 0.75rem;
+    bottom: 0;
+    padding: 0rem 1rem;
+    line-height: 2rem;
+    color: white;
+    background: rgba(0,0,0,.3);
+  }
+}
 
 .header-link {
  // position: absolute;
