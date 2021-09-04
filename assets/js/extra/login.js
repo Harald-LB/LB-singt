@@ -13,10 +13,11 @@ window.onload = function () {
     }
     else {
         myModal.show();
+        passwordField.focus();
     }
 };
 function checkPassword() {
-    if (passwordField.value == "kslidz") {
+    if (passwordField.value.toLowerCase() == "kslidz") {
         // Password is OK
         myModal.hide();
         // save access authorisation
