@@ -54,7 +54,7 @@ Die Noten bekommen Sie per E-Mail.
 
 {% include audio-example.html piece="109-Von_guten_Maechten" %}
 <p>
-Und weils so schön ist; hier noch eine reine Klavierfassung:
+Und weils so schön ist, hier noch eine reine Klavierfassung:
 </p>
 <p>
 <audio controls style="max-width: 15em;padding: 2px;">
@@ -70,7 +70,16 @@ Und weils so schön ist; hier noch eine reine Klavierfassung:
 ---
 ## 120. Großer Gott, wir loben dich (Satz 2)
 
-<p>In Vorbereitung</p>
+{% include audio-example.html piece="120-Grosser_Gott" %}
+
+<p>
+Auch hier noch eine reine Klavierfassung:
+</p>
+<p>
+<audio controls style="max-width: 15em;padding: 2px;">
+        <source src="{% link assets/audio/120-Grosser_Gott-piano.mp3 %}" type="audio/mpeg">
+</audio>
+</p>
 
 ---
 ## 142. Dona nobis pacem
