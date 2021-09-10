@@ -49,7 +49,7 @@ an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
 ## Termine
 Die aktuelle Planung ist wie folgt:
 
-- Montag 13. September - Anmeldeschluss [(siehe hier)](anmeldung.html)
+- Mittwoch 15. September - Anmeldeschluss [(siehe hier)](anmeldung.html)
 - Donnerstag 23. September, 19<sup>30</sup> Uhr - erste Chorprobe
 - Donnerstag 30. September, 19<sup>30</sup> Uhr - zweite Chorprobe
 - Sonntag 3. Oktober , 17<sup>30</sup> Uhr - Einsingen, 19 Uhr - Konzert

@@ -4,8 +4,8 @@ title: "Anmeldung"
 menu_position: 21
 extra_js: "form-validation.js"
 ---
-Hier können Sie sich für die Teilnahme an dem Konzert und den Proben anmelden. Anmeldeschluss ist der
-13.&nbsp;September.
+Hier können Sie sich für die Teilnahme an dem Konzert und den Proben anmelden. Anmeldeschluss 
+ist auf den 15.&nbsp;September verlängert worden.
 
 Sollten sich mehr Teilnehmer melden, als gemäß der Corona Regeln erlaubt sind,
 so werden die Anmeldungen entsprechend der Reihenfolge des Eingangs berücksichtigt.
@@ -19,7 +19,7 @@ und per Post oder Email an die Geschäftsstelle
 des Stadtverbandes schicken.
 
 - __Anmeldeformular:__ [Anmeldeformular.pdf (61.25KB)](assets/doc/Anmeldeformular.pdf)
-- __Geschäftsstelle:__ Nicole Bacher, SVM Geschäftsstelle, Beim Hasenkreuz 6, 71696 Möglingen
+- __Geschäftsstelle:__ SVM Geschäftsstelle c/o Nicole Bacher, Beim Hasenkreuz 6, 71696 Möglingen
 - __E-Mail-Adresse:__ <a href="mailto:Geschaeftsstelle@svm-ludwigsburg.de"> Geschaeftsstelle@svm-ludwigsburg.de</a>
 
 ---

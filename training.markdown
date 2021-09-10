@@ -54,7 +54,7 @@ Die Noten bekommen Sie per E-Mail.
 
 {% include audio-example.html piece="109-Von_guten_Maechten" %}
 <p>
-Und weils so schön ist, hier noch eine reine Klavierfassung:
+Und weil's so schön ist, hier noch eine reine Klavierfassung:
 </p>
 <p>
 <audio controls style="max-width: 15em;padding: 2px;">
@@ -89,8 +89,7 @@ Auch hier noch eine reine Klavierfassung:
 ---
 ## 145.  Möge die Straße uns zusammenführen
 
-<p>In Vorbereitung</p>
-<!-- https://www.evangeliums.net/lieder/lied_moege_die_strasse_uns_zusammenfuehren.html -->
+{% include audio-example.html piece="145-Moege_die_Strasse" %}
 
 ---
 
