@@ -4,18 +4,23 @@ title: "Anmeldung"
 menu_position: 21
 extra_js: "form-validation.js"
 ---
-Hier können Sie sich für die Teilnahme an dem Konzert und den Proben anmelden. Anmeldeschluss 
-ist auf den 15.&nbsp;September verlängert worden.
+Hier können Sie sich für die Teilnahme an den Chorproben anmelden. Nach Eingang der
+Anmeldung erhalten Sie die Noten und Zugang zu den Studienmaterialien per Mail.
 
-Sollten sich mehr Teilnehmer melden, als gemäß der Corona Regeln erlaubt sind,
-so werden die Anmeldungen entsprechend der Reihenfolge des Eingangs berücksichtigt.
+Für den Konzertbesuch als Zuhörer am 3. Oktober ist <u>keine Anmeldung</u> erforderlich.
+Bitte für den Konzertbesuch <u>nicht anmelden</u>, da die Anmeldung für ChorsängerInnen reserviert,
+und unsere Verarbeitungskapazität auf 50 Anmeldungen im Monat begrenzt ist. 
 
-Bitte geben sie Ihre E-Mail Adresse an. So können wir Sie auf dem Laufenden halten.
+Der Anmeldeschluss wurde auf den 15.&nbsp;September verlängert.
+
+Sollten sich mehr ChorsängerInnen melden als wegen der Corona Regeln erlaubt,
+werden die Anmeldungen in der Reihenfolge des Eingangs berücksichtigt.
+
+Bitte geben Sie Ihre E-Mail-Adresse an. So können wir Sie auf dem Laufenden halten.
 
 ---
 ## Anmeldung per Post
-Einfach das Anmeldeformular herrunter laden, ausdrucken, ausfüllen
-und per Post oder Email an die Geschäftsstelle
+Einfach das Anmeldeformular herunterladen, ausdrucken, ausfüllen und per Post oder Email an die Geschäftsstelle
 des Stadtverbandes schicken.
 
 - __Anmeldeformular:__ [Anmeldeformular.pdf (61.25KB)](assets/doc/Anmeldeformular.pdf)
