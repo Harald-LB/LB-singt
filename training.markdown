@@ -7,13 +7,18 @@ menu_title: "Training"
 extra_js: login.js
 ---
 
-Nutzen Sie die Zeit in der S-Bahn, beim Bügeln, beim Joggen etc. um sich Ihre Stimme
-einzuprägen.
+Nutzen Sie die Zeit in der S-Bahn, beim Bügeln, beim Joggen etc. um sich Ihre Stimme einzuprägen.
 
-Hören Sie sich die folgenden Lieder immer wieder an. Im Hintergrund spielt die Orgel alle Chorstimmen.
+Die Noten haben Sie per E-Mail bekommen.
+
+Hören Sie sich die folgenden Lieder immer wieder an.
+
+In den vierstimmigen Liedern spielt die Orgel im Hintergrund alle Chorstimmen.
 Im Vordergrund hören Sie Ihre Stimme vom Klavier gespielt.
 
-Die Noten bekommen Sie per E-Mail.
+In den Kanones (ja, der Plural von Kanon <i class="bi bi-emoji-smile"></i>) fängt die Orgel im oberen Register mit der Melodie an.
+Dann setzt sie nach und nach mit den tieferen Registern ein.
+Das Klavier spielt dazu ein Ostinato.
 
 ---
 ## 25.  Hab oft im Kreise der Lieben
@@ -22,7 +27,7 @@ Die Noten bekommen Sie per E-Mail.
 ---
 ## 65. Abendstille überall
 
-<p>In Vorbereitung</p>
+{% include audio-example-canon.html piece="065-Abendstille" %}
 
 ---
 ## 67.  Nun wollen wir singen das Abendlied

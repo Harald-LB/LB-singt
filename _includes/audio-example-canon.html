@@ -1,0 +1,21 @@
+<!-- _includes/audio-example-canon -->
+{% capture piece %}assets/audio/{{ include.piece }}.mp3{% endcapture %}
+{% capture logoLink %}{% link assets/img/icons/mp3Logo.png %}{% endcapture %}
+
+<table style="max-width: 100%; ">
+  <tr>
+    <td>Kanon</td>
+    <td>
+      <audio controls loop style="max-width: 15em;padding: 2px;">
+        <source src="{% link {{piece}} %}" type="audio/mpeg">
+      </audio>
+    </td>
+    <td>
+      <a href="{% link {{piece}} %}" download>
+        Download
+        <img src="{{logoLink}}">
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- END _includes/audio-example-canon -->
