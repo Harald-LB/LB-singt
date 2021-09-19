@@ -56,12 +56,9 @@ Die aktuelle Planung ist wie folgt:
 
 Chorproben und Konzert finden in der Friedenskirche (Stuttgarter Str. 42, 71638 Ludwigsburg) statt.
 
-Derzeit gilt als Voraussetzung für die Teilnahme an den Proben eine vollständige Impfung,
-ein negativer Coronaschnelltest oder eine Bescheinigung über die Genesung
-nach einer Coviderkrankung.
+### <u>Die Chorproben finden unter 2G-Bedingungen statt.</u>
 
-Pandemiebedingt können sich diese Termine kurzfristig ändern.
-Wir halten sie per E-Mail auf dem Laufenden.
+Bitte vergessen Sie nicht Ihren Nachweis über Impfung oder Genesung mitzubringen.
 
 ---
 ## „3. Oktober – Deutschland  singt“
