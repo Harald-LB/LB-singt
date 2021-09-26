@@ -52,7 +52,7 @@ Das Klavier spielt dazu ein Ostinato.
 ---
 ## 75.  Kanon: Herr, bleibe bei uns
 
-<p>In Vorbereitung</p>
+{% include audio-example-canon.html piece="075-Herr_bleib" %}
 
 ---
 ## 109. Von guten Mächten treu und still umgeben

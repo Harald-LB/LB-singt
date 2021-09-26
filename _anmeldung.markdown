@@ -1,7 +1,6 @@
 ---
 layout: contact-form
 title: "Anmeldung"
-menu_position: 21
 extra_js: "form-validation.js"
 ---
 Hier können Sie sich für die Teilnahme an den Chorproben anmelden. Nach Eingang der

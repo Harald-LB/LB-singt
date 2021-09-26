@@ -41,22 +41,15 @@ auch für das Konzert in der Friedenskirche ist der Eintritt frei.
 </div>
 {::options parse_block_html="false" /}
 
-Sie können schon jetzt, während der Ferien, anfangen zu üben. Melden Sie sich
-[hier](anmeldung.html)
-an. Wir versorgen sie mit Notenmaterial und Hörbeispielen.
-
 ---
 ## Termine
 Die aktuelle Planung ist wie folgt:
-
-- Mittwoch 15. September - Anmeldeschluss [(siehe hier)](anmeldung.html)
-- Donnerstag 23. September, 19<sup>30</sup> Uhr - erste Chorprobe
 - Donnerstag 30. September, 19<sup>30</sup> Uhr - zweite Chorprobe
 - Sonntag 3. Oktober , 17<sup>30</sup> Uhr - Einsingen, 19 Uhr - Konzert
 
 Chorproben und Konzert finden in der Friedenskirche (Stuttgarter Str. 42, 71638 Ludwigsburg) statt.
 
-### <u>Die Chorproben finden unter 2G-Bedingungen statt.</u>
+### <u>Die Chorproben und Konbzert finden unter 2G-Bedingungen statt.</u>
 
 Bitte vergessen Sie nicht Ihren Nachweis über Impfung oder Genesung mitzubringen.
 
