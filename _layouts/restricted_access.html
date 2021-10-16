@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% comment %} <!-- template for a normal article -->{% endcomment %}
+
+
+<!-- layout article -->
+<main role="main">
+  <div class="container">
+    <!-- Modal -->
+    <div class="modal" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+         aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog" style="color: dimgray">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">Teilnehmer Login</h5>
+            <a class="btn-close" aria-label="Abbrechen" href="/index.html"></a>
+          </div>
+          <div class="modal-body">
+            <form class="needs-validation" novalidate>
+              <div class="mb-3">
+                <label for="password-field" class="col-form-label">Passwort:</label>
+                <input type="text" class="form-control" id="password-field">
+                <div class="invalid-feedback">
+                  Verwenden Sie bitte das Passwort, das Sie von uns erhalten haben.
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" id="password-ok-button" class="btn btn-success">OK</button>
+            <a class="btn btn-primary" href="/index.html">Abbrechen</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="lead mb-md-5">
+      {{ content }}
+    </div>
+  </div>
+</main>
+<!-- end layout article -->
