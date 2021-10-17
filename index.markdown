@@ -5,10 +5,13 @@ subtitle: 3. Oktober 2021 in der Friedenskirche
 menu_position: 10
 menu_title: Home
 ---
-<span class="fs-3">E</span>s war ein wirklich großes Erlebnis, vielen 
-Dank an alle Beteiligten und an die Zuhörerer, die so großzügig gespendet haben.
+<span class="fs-1">E</span>s war ein wirklich großes Erlebnis.
 
-Hier ist der Bericht aus der Ludwigsburger Kreiszeitung vom 5. Oktober 2021. 
+Vielen Dank allen Beteiligten für ihr großartiges Engagement.<br>
+Vielen Dank allen Besuchern, die so großzügig gespendet haben.
+
+Hier der Bericht aus der Ludwigsburger Kreiszeitung vom 5. Oktober 2021.
+
 
 ---
 
@@ -97,7 +100,8 @@ Es wurde endlich wieder gesungen und an diejenigen gedacht,
 die in diesem Sommer alles verloren haben: Am Ausgang wurden Spenden für die Flutopfer in
 Ahrweiler gesammelt.
 
-_Mit freundlicher Genehmigung der LKZ_
+_Mit freundlicher Genehmigung der
+[Ludwigsburger Kreiszeitung](https://www.lkz.de/)_
 
 
 
